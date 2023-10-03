@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: lightgray;
+    background-color: rgb(228, 224, 224);
 }
 
 .nav-bar{
@@ -79,7 +79,14 @@ h4{
     margin-top: 10px;
 }
 
-.x-simbol{
+.v-symbol{
+    width: 20px;
+    border: 1px solid lightgrey;
+    color: lightgray;
+    border-radius: 50%;
+}
+
+.x-symbol{
     color: red;
 }
 
