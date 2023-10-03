@@ -27,14 +27,15 @@ h1{
 
 .container-button{
     text-align: left;
-    height: 70px;
-    width: 50%;
+    height: 50px;
+    width: 70%;
     background-color: white;
     margin-top: 100px;
-    margin-left: 300px;
+    margin-left: 135px;
     border-radius: 2px;
-    padding: 15px;
-    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
 }
 
 .button {
@@ -57,11 +58,11 @@ h1{
 
 .container-content{
     text-align: left;
-    width: 50%;
+    width: 70%;
     height: 600px;
     background-color: white;
     margin-top: 1px;
-    margin-left: 300px;
+    margin-left: 135px;
     border-radius: 2px;
     padding: 15px;
 }
@@ -80,13 +81,20 @@ h4{
 }
 
 .v-symbol{
-    border: 1px solid lightgrey;
-    color: lightgray;
+    border: 1px solid rgb(120, 200, 127);
+    color: rgb(120, 200, 127);
+    font-size: 7px;
+    padding: 4px;
     border-radius: 50%;
 }
 
 .x-symbol{
     color: red;
+    font-size: 7px;
+    padding: 4px;
+    border-radius: 50%;
+    border: 1px solid red;
+
 }
 
 .info-box{
